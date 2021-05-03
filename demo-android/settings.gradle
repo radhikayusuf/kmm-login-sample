@@ -1,0 +1,3 @@
+include ':shared_auth'
+include ':app'
+rootProject.name = "kmm-demo-android"
